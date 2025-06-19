@@ -1,8 +1,8 @@
 [
 {
-  "modid": "armorstandtoggle",
-  "name": "armorstandtoggle",
-  "description": "隐藏隐形盔甲架",
+  "modid": "armorstandtogle",
+  "name": "ArmorStandToggle",
+  "description": "不渲染指定盔甲架",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
