@@ -1,4 +1,4 @@
-Args: "--in-jar", "D:\86189\Desktop\Happy\JarApp\ArmorStandToggle\build\libs\ArmorStandToggle-0.0.2.jar", "--out-jar", "D:\86189\Desktop\Happy\JarApp\ArmorStandToggle\build\reobfJar\output.jar", "--srg-in", "D:\86189\Desktop\Happy\JarApp\ArmorStandToggle\build\createMcpToSrg\output.tsrg", "--live"
+Args: "--in-jar", "D:\86189\Desktop\Happy\JarApp\ArmorStandToggle\build\libs\ArmorStandToggle-0.0.3.jar", "--out-jar", "D:\86189\Desktop\Happy\JarApp\ArmorStandToggle\build\reobfJar\output.jar", "--srg-in", "D:\86189\Desktop\Happy\JarApp\ArmorStandToggle\build\createMcpToSrg\output.tsrg", "--live"
 Classpath: C:\Users\Admin\.gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.8.3\SpecialSource-1.8.3-shaded.jar
 Classpath: C:\Users\Admin\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12\forge-1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12-recomp.jar
 Classpath: C:\Users\Admin\.gradle\caches\forge_gradle\minecraft_repo\versions\1.12.2\client-extra.jar
